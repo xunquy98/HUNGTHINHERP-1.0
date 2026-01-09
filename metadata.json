@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HUNGTHINH v3.2 - 8/1",
+  "description": "A comprehensive ERP and POS system for managing bearing sales, inventory, partners, and business analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
